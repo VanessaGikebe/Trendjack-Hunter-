@@ -1143,4 +1143,348 @@
             <span class="dash-rank">04</span>
             <span class="dash-name">Movie Release Weekend</span>
             <div class="dash-bar-wrap"><div class="dash-bar-fill" style="width:41%; background:#fff;"></div></div>
-            <span class="dash-pct c-white" data-val="87">+87%</
+            <span class="dash-pct c-white" data-val="87">+87%</span>
+          </div>
+          <div class="dash-row">
+            <span class="dash-rank">05</span>
+            <span class="dash-name">F1 Race Results</span>
+            <div class="dash-bar-wrap"><div class="dash-bar-fill" style="width:38%; background:var(--purple);"></div></div>
+            <span class="dash-pct c-purple" data-val="82">+82%</span>
+          </div>
+          <div class="dash-row">
+            <span class="dash-rank">06</span>
+            <span class="dash-name">Celebrity Breakup</span>
+            <div class="dash-bar-wrap"><div class="dash-bar-fill" style="width:33%; background:var(--lime);"></div></div>
+            <span class="dash-pct c-lime" data-val="71">+71%</span>
+          </div>
+          <div class="dash-row">
+            <span class="dash-rank">07</span>
+            <span class="dash-name">Bitcoin Price Surge</span>
+            <div class="dash-bar-wrap"><div class="dash-bar-fill" style="width:29%; background:#fff;"></div></div>
+            <span class="dash-pct c-white" data-val="62">+62%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="macbook-base"></div>
+    <div class="macbook-foot"></div>
+  </div>
+</section>
+
+<!-- ─── TICKER STREAM ─── -->
+<section id="section-stream">
+  <div class="stream-ticker">
+    <div class="ticker-track" id="tickerTrack">
+      <span class="ticker-item"><span class="dot"></span><span>#WorldCup</span><span class="hot">+214%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>TikTok Dance</span><span class="hot">1.3M</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>New AI Model</span><span class="hot">+450%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>F1 Highlights</span><span class="hot">+89%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Netflix Finale</span><span class="hot">Exploding</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Celebrity Drama</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Bitcoin</span><span class="hot">+62%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Gaming Launch</span><span class="hot">+180%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Political Debate</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Meme of the Day</span></span>
+      <!-- Duplicate for seamless loop -->
+      <span class="ticker-item"><span class="dot"></span><span>#WorldCup</span><span class="hot">+214%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>TikTok Dance</span><span class="hot">1.3M</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>New AI Model</span><span class="hot">+450%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>F1 Highlights</span><span class="hot">+89%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Netflix Finale</span><span class="hot">Exploding</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Celebrity Drama</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Bitcoin</span><span class="hot">+62%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Gaming Launch</span><span class="hot">+180%</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Political Debate</span></span>
+      <span class="ticker-item"><span class="dot"></span><span>Meme of the Day</span></span>
+    </div>
+  </div>
+</section>
+
+<!-- ─── ORBITAL CAROUSEL ─── -->
+<section id="section-orbital">
+  <div class="orbital-header">
+    <div class="orbital-eyebrow">Live Signal Orbits</div>
+    <div class="orbital-title">THE INTERNET<br>IN MOTION</div>
+  </div>
+
+  <div class="orbital-stage" id="orbitalStage">
+    <!-- Rings -->
+    <div class="orbit-ring orbit-ring-1"></div>
+    <div class="orbit-ring orbit-ring-2"></div>
+    <div class="orbit-ring orbit-ring-3"></div>
+
+    <!-- Center -->
+    <div class="orbital-center">
+      <div class="orbital-center-label">Curated</div>
+      <div class="orbital-center-title">SIGNALS</div>
+    </div>
+
+    <!-- Orbit items — positioned via JS -->
+    <div class="orbit-item" data-radius="170" data-speed="0.4" data-angle="0">
+      <div class="orbit-card oc-lime">World Cup</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">#WorldCup</div>
+        <div class="ott-pct">+214%</div>
+        <div class="ott-countries">UK · Brazil · Kenya · Germany</div>
+        <div class="ott-time">Updated 43 sec ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="170" data-speed="0.4" data-angle="90">
+      <div class="orbit-card oc-purple">TikTok Trends</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">TikTok Dance</div>
+        <div class="ott-pct">1.3M</div>
+        <div class="ott-countries">Global · Viral</div>
+        <div class="ott-time">Updated 12 sec ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="170" data-speed="0.4" data-angle="180">
+      <div class="orbit-card oc-dark">Gaming</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">Gaming Launch</div>
+        <div class="ott-pct">+180%</div>
+        <div class="ott-countries">US · Japan · Korea</div>
+        <div class="ott-time">Updated 1 min ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="170" data-speed="0.4" data-angle="270">
+      <div class="orbit-card oc-white">AI Releases</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">New AI Model</div>
+        <div class="ott-pct">+450%</div>
+        <div class="ott-countries">42 countries · Tech</div>
+        <div class="ott-time">Updated 28 sec ago</div>
+      </div>
+    </div>
+
+    <!-- Outer ring — slower -->
+    <div class="orbit-item" data-radius="260" data-speed="0.22" data-angle="45">
+      <div class="orbit-card oc-purple">Streaming</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">Netflix Finale</div>
+        <div class="ott-pct">Exploding</div>
+        <div class="ott-countries">US · UK · Australia</div>
+        <div class="ott-time">Updated 5 sec ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="260" data-speed="0.22" data-angle="135">
+      <div class="orbit-card oc-lime">Politics</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">Political Debate</div>
+        <div class="ott-pct">Growing</div>
+        <div class="ott-countries">US · EU</div>
+        <div class="ott-time">Updated 2 min ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="260" data-speed="0.22" data-angle="225">
+      <div class="orbit-card oc-dark">Celebrity News</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">Celebrity Drama</div>
+        <div class="ott-pct">+94%</div>
+        <div class="ott-countries">Global</div>
+        <div class="ott-time">Updated 19 sec ago</div>
+      </div>
+    </div>
+    <div class="orbit-item" data-radius="260" data-speed="0.22" data-angle="315">
+      <div class="orbit-card oc-white">Crypto</div>
+      <div class="orbit-tooltip">
+        <div class="ott-name">Bitcoin Surge</div>
+        <div class="ott-pct">+62%</div>
+        <div class="ott-countries">Finance · Global</div>
+        <div class="ott-time">Updated 8 sec ago</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FINAL SECTION ─── -->
+<section id="section-final">
+  <div class="final-glow"></div>
+  <div class="final-text">
+    <span class="final-line">THE INTERNET</span>
+    <span class="final-line">NEVER STOPS</span>
+    <span class="final-line">TALKING.</span>
+    <div class="final-divider"></div>
+    <span class="final-line purple-line">WE HELP YOU</span>
+    <span class="final-line purple-line">LISTEN.</span>
+    <div class="final-cta">
+      <button class="btn-primary">Join the Waitlist</button>
+      <button class="btn-secondary">Learn More</button>
+    </div>
+  </div>
+</section>
+
+<script>
+/* ─── SCROLL PROGRESS ─── */
+window.addEventListener('scroll', () => {
+  const scrollTop = window.scrollY;
+  const docHeight = document.body.scrollHeight - window.innerHeight;
+  const progress = (scrollTop / docHeight) * 100;
+  document.getElementById('scrollProgress').style.width = progress + '%';
+});
+
+/* ─── PHONE TREND CYCLER ─── */
+function cycleTrends(items, interval) {
+  let current = 0;
+  setInterval(() => {
+    const activeEl = items[current];
+    activeEl.classList.remove('active');
+    activeEl.classList.add('exit');
+    setTimeout(() => activeEl.classList.remove('exit'), 500);
+    current = (current + 1) % items.length;
+    items[current].classList.add('active');
+  }, interval);
+}
+
+const heroTrends = [
+  document.getElementById('pt1'),
+  document.getElementById('pt2'),
+  document.getElementById('pt3'),
+  document.getElementById('pt4'),
+].filter(Boolean);
+if (heroTrends.length) cycleTrends(heroTrends, 4000);
+
+const trends2 = [
+  document.getElementById('tp2-1'),
+  document.getElementById('tp2-2'),
+  document.getElementById('tp2-3'),
+].filter(Boolean);
+if (trends2.length) cycleTrends(trends2, 3500);
+
+/* ─── SCROLL TRANSITION ─── */
+const transitionZone = document.getElementById('transition-zone');
+const transBg = document.getElementById('transBg');
+const transOld = document.getElementById('transOld');
+const transNew = document.getElementById('transNew');
+const tw1 = document.getElementById('tw1');
+const tw2 = document.getElementById('tw2');
+const tw3 = document.getElementById('tw3');
+const tw4 = document.getElementById('tw4');
+
+function lerp(a, b, t) { return a + (b - a) * t; }
+function clamp(v, min, max) { return Math.min(max, Math.max(min, v)); }
+
+window.addEventListener('scroll', () => {
+  const rect = transitionZone.getBoundingClientRect();
+  const totalScrollable = transitionZone.offsetHeight - window.innerHeight;
+  const scrolled = -rect.top;
+  const progress = clamp(scrolled / totalScrollable, 0, 1);
+
+  // Phase 1 (0 → 0.4): words slide out in different directions
+  const p1 = clamp(progress / 0.4, 0, 1);
+  // Phase 2 (0.4 → 1): new text appears
+  const p2 = clamp((progress - 0.4) / 0.6, 0, 1);
+
+  // Background darkens
+  const r = Math.round(lerp(245, 5, p1));
+  const g = Math.round(lerp(245, 5, p1));
+  const b = Math.round(lerp(242, 5, p1));
+  transBg.style.background = `rgb(${r},${g},${b})`;
+
+  // Old text slides away with different directions
+  const easeOut = t => 1 - Math.pow(1 - t, 3);
+  const ep1 = easeOut(p1);
+
+  tw1.style.transform = `translateX(${-ep1 * 120}%)`;
+  tw1.style.opacity = 1 - ep1;
+
+  tw2.style.transform = `translateX(${ep1 * 100}%)`;
+  tw2.style.opacity = 1 - ep1;
+
+  tw3.style.transform = `translateX(${-ep1 * 80}%) translateY(${ep1 * 20}px)`;
+  tw3.style.opacity = 1 - ep1;
+
+  tw4.style.transform = `translateX(${ep1 * 90}%) translateY(${-ep1 * 15}px)`;
+  tw4.style.opacity = 1 - ep1;
+
+  // Old text color
+  const textR = Math.round(lerp(5, 183, Math.min(p1 * 2, 1)));
+  const textG = Math.round(lerp(5, 100, Math.min(p1 * 2, 1)));
+  const textB = Math.round(lerp(5, 255, Math.min(p1 * 2, 1)));
+  [tw1, tw2, tw3, tw4].forEach(w => {
+    if (w) w.style.color = `rgb(${textR},${textG},${textB})`;
+  });
+
+  // New text fades in
+  const easeIn = t => t * t * t;
+  transNew.style.opacity = easeIn(p2);
+  transNew.style.transform = `scale(${lerp(0.85, 1, easeIn(p2))})`;
+});
+
+/* ─── ORBITAL CAROUSEL ─── */
+const orbitalStage = document.getElementById('orbitalStage');
+const orbitItems = orbitalStage ? orbitalStage.querySelectorAll('.orbit-item') : [];
+const stageSize = 680;
+const centerX = stageSize / 2;
+const centerY = stageSize / 2;
+
+let orbitAngles = [];
+let slowFactor = 1;
+
+orbitItems.forEach((item, i) => {
+  const angle = parseFloat(item.dataset.angle) || 0;
+  orbitAngles.push((angle * Math.PI) / 180);
+});
+
+let lastTime = null;
+let orbitPaused = false;
+
+// Slow down on hover over stage
+if (orbitalStage) {
+  orbitalStage.addEventListener('mouseenter', () => { orbitPaused = true; });
+  orbitalStage.addEventListener('mouseleave', () => { orbitPaused = false; });
+}
+
+function animateOrbits(timestamp) {
+  if (!lastTime) lastTime = timestamp;
+  const delta = timestamp - lastTime;
+  lastTime = timestamp;
+
+  const targetSlow = orbitPaused ? 0.15 : 1;
+  slowFactor += (targetSlow - slowFactor) * 0.05;
+
+  orbitItems.forEach((item, i) => {
+    const radius = parseFloat(item.dataset.radius) || 170;
+    const speed = parseFloat(item.dataset.speed) || 0.3;
+    orbitAngles[i] += (speed * delta * 0.001 * slowFactor);
+
+    const x = centerX + Math.cos(orbitAngles[i]) * radius;
+    const y = centerY + Math.sin(orbitAngles[i]) * radius;
+    item.style.left = x + 'px';
+    item.style.top = y + 'px';
+  });
+
+  requestAnimationFrame(animateOrbits);
+}
+
+requestAnimationFrame(animateOrbits);
+
+/* ─── MACBOOK LIVE NUMBERS ─── */
+const dashPcts = document.querySelectorAll('.dash-pct[data-val]');
+function jitterNumbers() {
+  dashPcts.forEach(el => {
+    const base = parseInt(el.dataset.val);
+    const jitter = Math.floor((Math.random() - 0.5) * 8);
+    el.textContent = '+' + (base + jitter) + '%';
+  });
+}
+setInterval(jitterNumbers, 2800);
+
+/* ─── MOUSE PARALLAX ON HERO ─── */
+const heroSection = document.getElementById('hero');
+const heroPhone = document.getElementById('heroPhone');
+const floatCards = document.querySelectorAll('.float-card');
+
+heroSection && heroSection.addEventListener('mousemove', (e) => {
+  const rect = heroSection.getBoundingClientRect();
+  const mx = (e.clientX - rect.left) / rect.width - 0.5;
+  const my = (e.clientY - rect.top) / rect.height - 0.5;
+
+  floatCards.forEach((card, i) => {
+    const depth = 0.5 + (i % 3) * 0.3;
+    card.style.transform = `translate(${mx * 20 * depth}px, ${my * 20 * depth}px)`;
+  });
+});
+</script>
+</body>
+</html>
